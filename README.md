@@ -5,5 +5,5 @@ This is the open source, temporary exposure system, so anyone can easily create 
 Would you like to help? Please contact me! Simply write an e-mail to: ExposeMeNowMarcel@outlook.de
 
 Technical skills needed:
- - NodeJS / Express (Backend)
+ - NodeJS / Express / JavaScript (Backend)
  - Angular / TypeScript / SCSS (Frontend)
